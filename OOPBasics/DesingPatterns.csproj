@@ -77,6 +77,10 @@
     <Compile Include="Adatapter\Calculator.cs" />
     <Compile Include="Builder\Builder.cs" />
     <Compile Include="Builder\ComputerBuilder.cs" />
+    <Compile Include="Composite\CompositeDemo.cs" />
+    <Compile Include="Composite\Employee.cs" />
+    <Compile Include="Composite\IEmployee.cs" />
+    <Compile Include="Composite\Manager.cs" />
     <Compile Include="Download\HttpInteraction.cs" />
     <Compile Include="Factory Patterns\FactoryMethod\MultipleProductClient.cs" />
     <Compile Include="Factory Patterns\FactoryMethod\MultipleProduct.cs" />
